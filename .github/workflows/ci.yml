@@ -4,8 +4,8 @@ name: Build and Test Renting
 on:
   pull_request:
     branches: 
-    - develop
-    - feature
+    - 'develop'
+    - 'feature'
     
 
 jobs:
